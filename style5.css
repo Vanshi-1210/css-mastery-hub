@@ -2,6 +2,6 @@
     color: green;
 } */
  /* another method to do the same */
- div>p{
+ div[id=myId] p{
     color: green;
  }
