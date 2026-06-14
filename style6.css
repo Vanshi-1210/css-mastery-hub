@@ -1,0 +1,13 @@
+/* blue background color is applid as when we calculate specificity for .para it comes to be 10 and for div p it comes to be 2 and for p selector it comes to be 1 */
+
+div p{
+    background-color: black;
+}
+
+.para{
+    background-color: blue;
+}
+
+p{
+    background-color: green;
+}
