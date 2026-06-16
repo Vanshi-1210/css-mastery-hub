@@ -1,0 +1,17 @@
+.container{
+    width: 900px;
+    height: 50px;
+    border: 2px solid skyblue;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(247, 189, 208);
+}
+
+.item{
+    height: 50px;
+    width: 80px;
+    font-size: 24px;
+    color: black;
+    align-content: center;
+}
