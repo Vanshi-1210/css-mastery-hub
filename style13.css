@@ -32,3 +32,9 @@
 .footer{
     grid-column: 1/span 12;
 }
+@media(max-width:720px){
+    .outer div{
+        background-color: rgb(218, 88, 109);
+        font-size: 2.5rem;
+    }
+}
